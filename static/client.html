@@ -9,10 +9,34 @@
   margin: 0;
   padding: 0;
 }
+
+div#page {
+  width: 75%;
+  margin: 0 auto;
+
+  font-family:
+}
+
+div.question-display {
+  padding: 10px 5px;
+}
+
+input.message {
+  box-sizing: border-box;
+  width: 89%;
+  margin-right: 1%;
+}
+button.send-message {
+  box-sizing: border-box;
+  width: 10%;
+}
     </style>
   </head>
   <body>
-
+    <div id="page">
+      <div class="question-display"><em style="opacity: 0.5">En attente d'une question…</em></div>
+      <input class="message" /><button class="send-message">Send</button>
+    </div>
     <script src="/socket.io/socket.io.js"></script>
     <script src="/client.js"></script>
   </body>
