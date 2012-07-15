@@ -12,3 +12,5 @@ Try it
     cd RealTimeQuiz
     chmod +x run-server.sh
     ./run-server.sh
+
+Now you have a server running at [http://localhost:8080/](http://localhost:8080/).
