@@ -1,21 +1,21 @@
 {
-      "title": "Mon premier quiz."
-    , "questions": [
-        {
-            "question": "Quelle était la couleur du cheval blanc d'Henri IV ?"
-            , "answer": ["must contain", "the text", "blanc"]
-        }
-        , {
-            "question": "Quel est mon prénom ?"
-            , "answer": ["must be", "the text", "Guillaume"]
-        }
-        , {
-            "question": "En quelle année suis-je né ?"
-            , "answer": ["must contain", "the number", "1990"]
-        }
-        , {
-            "question": "À quelle date s'est déroulé le premier tour de la dernière élection présidentielle française ?"
-            , "answer": ["must contain", "the date", "22 avril 2012"]
-        }
-    ]
+  "title": "Mon premier quiz.",
+  "questions": [
+    {
+      "question": "Quelle était la couleur du cheval blanc d'Henri IV ?",
+      "answer": "blanc"
+    },
+    {
+      "question": "Combien de mots contient cette phrase ?",
+      "answer": "6"
+    },
+    {
+      "question": "À quelle date s'est déroulé le premier tour de la dernière élection présidentielle française ?",
+      "answer": "22/04/2012"
+    },
+    {
+      "question": "Citez le nom de l'un des Trois Mousquetaires d'Alexandre Dumas :",
+      "answer": ["Athos", "Porthos", "Aramis"]
+    }
+  ]
 }
