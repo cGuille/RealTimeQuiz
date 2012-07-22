@@ -10,12 +10,80 @@
       "answer": "6"
     },
     {
-      "question": "À quelle date s'est déroulé le premier tour de la dernière élection présidentielle française ?",
-      "answer": "22/04/2012"
-    },
-    {
       "question": "Citez le nom de l'un des Trois Mousquetaires d'Alexandre Dumas :",
       "answer": ["Athos", "Porthos", "Aramis"]
+    },
+    {
+      "question": "Dans quelle grande ville française peut-on flâner sur la Promenade des Anglais ?",
+      "answer": "Nice"
+    },
+    {
+      "question": "Quelle ville de Belgique est aussi appelée « la Venise du Nord » ?",
+      "answer": "Bruges"
+    },
+    {
+      "question": "Quel nom de petit instrument à percussion, formé de deux pièces reliées par un cordon, est emprunté au mot « châtaigne », en espagnol ?",
+      "answer": "castagnettes"
+    },
+    {
+      "question": "Quel homme politique a été président de la République algérienne de 1979 à 1992 ?",
+      "answer": "Chadli"
+    },
+    {
+      "question": "Face à quel tennisman Mats Wilander s'est-il incliné en finale de Roland-Garros en 1983 ?",
+      "answer": "Noah"
+    },
+    {
+      "question": "En 1952, qui interprète « Fanfan la Tulipe » sous la direction de Christian-Jaque ?",
+      "answer": "Gérard Philipe"
+    },
+    {
+      "question": "Quel humoriste piégeait des célébrités en réalisant de fausses interviews sous le nom de Hugues Delatte ?",
+      "answer": "Mezrahi"
+    },
+    {
+      "question": "Quel État d'Amérique du Sud a des frontières terrestres avec la Colombie, le Brésil et la Guyana ?",
+      "answer": "Venezuela"
+    },
+    {
+      "question": "Quel artiste a peint la série des « Nymphéas » à Giverny ?",
+      "answer": "Monet"
+    },
+    {
+      "question": "Qui portait le matricule « 46664 » alors qu'il était prisonnier à Robben Island ?",
+      "answer": "Mandela"
+    },
+    {
+      "question": "Quel cinéaste américain a réalisé la trilogie baptisée « Le Parrain » ?",
+      "answer": "Coppola"
+    },
+    {
+      "question": "Combien y a-t-il de millimètres dans 5 centimètres ?",
+      "answer": "50"
+    },
+    {
+      "question": "L'ensemble du gouvernement pontifical est appelé le… ?",
+      "answer": "Saint Siège"
+    },
+    {
+      "question": "Combien de pattes compte un troupeau de 4 vaches et de 2 poules ?",
+      "answer": "20"
+    },
+    {
+      "question": "Quel tennisman détenait le record du nombre de victoires en tournois du grand chelem, avant d'être détrôné par Roger Federer ?",
+      "answer": "Sampras"
+    },
+    {
+      "question": "Quel roi surnommait-on le « Roi Soleil » ?",
+      "answer": ["Louis XIV", "Louis 14"]
+    },
+    {
+      "question": "Quel acteur britannique incarne Harry Potter au cinéma ?",
+      "answer": "Radcliffe"
+    },
+    {
+      "question": "En quelle année les pièces et billets en euros sont-ils arrivés dans nos porte-monnaie ?",
+      "answer": "2002"
     }
   ]
 }
