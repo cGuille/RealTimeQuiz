@@ -14,11 +14,16 @@ div#page {
   width: 75%;
   margin: 0 auto;
 
-  font-family:
+  font-family: "Trebuchet MS";
 }
 
 div.question-display {
   padding: 10px 5px;
+}
+
+div.chatbox div.chatbox-info-message {
+  font-style: italic;
+  opacity: 0.5;
 }
 
 input.message {
@@ -35,6 +40,7 @@ button.send-message {
   <body>
     <div id="page">
       <div class="question-display"><em style="opacity: 0.5">En attente d'une question…</em></div>
+      <div class="chatbox"></div>
       <input class="message" /><button class="send-message">Send</button>
     </div>
     <script src="/socket.io/socket.io.js"></script>
