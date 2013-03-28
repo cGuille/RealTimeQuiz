@@ -14,3 +14,7 @@ Try it
     ./run-server.sh
 
 Now you have a server running at [http://localhost:8080/](http://localhost:8080/).
+
+NB:
+===
+The project has stopped and will be restarted from scratch with new specification & new design.
